@@ -27,7 +27,6 @@ CMakeFiles
 *.pkl
 *.ply
 data
-*.sh
 *.log
 
 core.*
